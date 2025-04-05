@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "title": "Smartphone Galaxy X10",
+        "image": "https://img.tuttoandroid.net/wp-content/uploads/2021/04/nokia_X10-front-forest_green.png",
+        "description": "Il Galaxy X10 è uno smartphone di ultima generazione con un display AMOLED da 6.7 pollici. Equipaggiato con una fotocamera da 108 MP, offre prestazioni elevate e una batteria da 5000 mAh. Perfetto per gli appassionati di tecnologia e fotografia.",
+        "prezzo": 899.99
+    },
+    {
+        "id": "2",
+        "title": "Cuffie Bluetooth Noise Cancelling",
+        "image": "https://www.sony.it/image/b4476ca635d3baa551e19ade7fad2c58?fmt=png-alpha&wid=660&hei=660",
+        "description": "Queste cuffie offrono una qualità audio superiore con tecnologia di cancellazione attiva del rumore. Perfette per chi desidera un suono cristallino e immersione totale, sia per il lavoro che per il tempo libero.",
+        "prezzo": 129.99
+    },
+    {
+        "id": "3",
+        "title": "Laptop Gaming Pro X",
+        "image": "https://eu.redmagic.gg/cdn/shop/files/laptop-titan-16-pro-front_2x_7840be8f-390a-4678-9d1f-4da822d05f71.png?v=1724048765&width=720",
+        "description": "Il Laptop Gaming Pro X è progettato per i videogiocatori professionisti. Con una scheda grafica NVIDIA RTX 3080 e un processore Intel i9, offre prestazioni eccezionali anche nei giochi più pesanti.",
+        "prezzo": 1999.99
+    },
+    {
+        "id": "4",
+        "title": "Smartwatch XFit",
+        "image": "https://static.toiimg.com/thumb/msid-87910129,imgsize-341217,width-400,resizemode-4/87910129.jpg",
+        "description": "Lo smartwatch XFit è il compagno ideale per ogni allenamento. Con monitoraggio della frequenza cardiaca, GPS integrato e monitoraggio del sonno, ti aiuta a rimanere in forma ogni giorno.",
+        "prezzo": 249.99
+    },
+    {
+        "id": "5",
+        "title": "Macchina da Caffè Espresso Pro",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTru9T6cf5nE1HYFsHsqBmvuQuxK5R4xgfXaA&s",
+        "description": "La macchina da caffè Espresso Pro è ideale per gli amanti del caffè che cercano un'esperienza professionale. Con un sistema di estrazione avanzato e un design elegante, prepara il miglior caffè espresso ogni volta.",
+        "prezzo": 499.99
+    },
+    {
+        "id": "6",
+        "title": "Televisore 4K Ultra HD 55",
+        "image": "https://www.carrefour.it/on/demandware.static/-/Sites-carrefour-master-catalog-IT/default/dw3bd05cc1/large/SAMTV55UE55CU7172UXXHUHD-8806094853483-1.png",
+        "description": "Televisore 4K Ultra HD da 55 pollici con supporto HDR per immagini vivide e colori intensi. La tecnologia Smart TV ti permette di accedere a tutte le tue app preferite direttamente dallo schermo.",
+        "prezzo": 799.99
+    },
+    {
+        "id": "7",
+        "title": "Zaino da Viaggio Explorer",
+        "image": "https://numadabrand.com/wp-content/uploads/2024/05/b40_negro-optimized.png",
+        "description": "Lo zaino Explorer è progettato per i viaggiatori avventurosi. Con scomparti multiuso e un sistema di ventilazione per mantenerti fresco durante le lunghe escursioni, è perfetto per ogni tipo di viaggio.",
+        "prezzo": 89.99
+    },
+    {
+        "id": "8",
+        "title": "Cucina Robotica SmartCook",
+        "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1664350593.67827628!400x400!85.png",
+        "description": "SmartCook è il robot da cucina che semplifica la preparazione dei tuoi piatti preferiti. Con funzioni di cottura automatica, taglio e impastamento, trasforma la cucina in un'esperienza veloce e divertente.",
+        "prezzo": 399.99
+    },
+    {
+        "id": "9",
+        "title": "Fotocamera Reflex Digital SLR",
+        "image": "https://www.nikonstore.it/wp-content/uploads/2024/09/cat-fotocamere-dslr.webp",
+        "description": "Fotocamera Reflex con sensore da 24.2 MP e obiettivo intercambiabile, ideale per fotografi amatoriali e professionisti. Offre immagini nitide anche in condizioni di luce scarsa.",
+        "prezzo": 699.99
+    },
+    {
+        "id": "10",
+        "title": "Bicicletta Elettrica XRide",
+        "image": "https://www.xpbikes.it/wp-content/uploads/2024/12/0__0006_X_ride_black_matt_l.png",
+        "description": "La bicicletta elettrica XRide è la soluzione ideale per chi cerca un mezzo di trasporto ecologico e veloce. Con motore potente e batteria a lunga durata, è perfetta per spostamenti urbani e gite all'aperto.",
+        "prezzo": 999.99
+    }
+]

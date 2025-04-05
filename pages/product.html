@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ECommerce</title>
+    <script src="../js/product.js"></script>
+    <link rel="stylesheet" href="../css/index.css">
+</head>
+
+<body>
+    <div class="navbar">
+        <ul class="nav-link"><a href="../index.html">Home</a></ul>
+        <ul class="nav-link"><a href="../pages/cart.html">Carrello</a></ul>
+        <ul class="nav-link"><a href="chi-siamo.html">Chi siamo</a></ul>
+    </div>
+    <h3>Dettagli prodotto</h3>
+    <div class="container-product">
+        <h1 id="p-title"></h1>
+        <p id="p-price"></p>
+        <img id="p-img">
+        <p id="p-desc"></p>
+        <button id="p-btn" onclick="addToCart()"></button>
+        <button onclick="window.location.href = '/pages/cart.html' ">Vai al carrello</button>
+    </div>
+</body>
+
+</html>

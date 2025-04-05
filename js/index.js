@@ -1,5 +1,5 @@
 const checkAuth = () => {
-    if (!localStorage.getItem("user")) return window.location.href = "/pages/login.html"
+    if (!localStorage.getItem("user")) return window.location.href = "pages/login.html"
 }
 checkAuth()
 
@@ -10,7 +10,7 @@ const loadProducts = async () => {
 }
 
 const openPage = (element) => {
-    window.location.href = `/pages/product.html?id=${element.id}`
+    window.location.href = `pages/product.html?id=${element.id}`
 }
 
 const createCards = (products, container) => {

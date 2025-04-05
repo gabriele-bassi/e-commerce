@@ -25,7 +25,7 @@ const login = () => {
 
     loadUsers().then(users => {
         if (authUser(user, users)) {
-            window.location.href = "index.html"
+            window.location.href = "../index.html"
             window.localStorage.setItem("user", JSON.stringify(user))
 
         } else {

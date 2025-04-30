@@ -1,5 +1,5 @@
 const loadUsers = async () => {
-    const users = await fetch("../data/users.json")
+    const users = await fetch("data/users.json")
     return await users.json()
 }
 

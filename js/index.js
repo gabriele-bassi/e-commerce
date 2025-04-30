@@ -5,7 +5,7 @@ checkAuth()
 
 
 const loadProducts = async () => {
-    const products = fetch(`../data/products.json`)
+    const products = fetch(`data/products.json`)
     return (await products).json()
 }
 

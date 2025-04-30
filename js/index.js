@@ -1,5 +1,5 @@
 const checkAuth = () => {
-    if (!localStorage.getItem("user")) return window.location.href = "../pages/login.html"
+    if (!localStorage.getItem("user")) return window.location.href = "pages/login.html"
 }
 checkAuth()
 

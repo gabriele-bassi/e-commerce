@@ -1,5 +1,5 @@
 const loadUsers = async () => {
-    const users = await fetch("data/users.json")
+    const users = await fetch("../data/users.json")
     return await users.json()
 }
 
@@ -29,7 +29,7 @@ const login = () => {
             window.localStorage.setItem("user", JSON.stringify(user))
 
         } else {
-            window.location.href = "pages/login.html"
+            window.location.href = "../pages/login.html"
         }
     })
 

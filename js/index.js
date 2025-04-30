@@ -1,5 +1,3 @@
-const repoName = "e-commerce"
-
 const checkAuth = () => {
     if (!localStorage.getItem("user")) return window.location.href = "/pages/login.html"
 }
@@ -7,7 +5,7 @@ checkAuth()
 
 
 const loadProducts = async () => {
-    const products = fetch(`${window.location.origin}/${repoName}/data/users.json`)
+    const products = fetch(`../data/products.json`)
     return (await products).json()
 }
 
